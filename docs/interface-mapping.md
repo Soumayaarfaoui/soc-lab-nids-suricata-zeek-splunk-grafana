@@ -1,0 +1,10 @@
+# Interface mapping (Target)
+
+| TP name | Linux name | VMware adapter | Network |
+|---|---|---|---|
+| eth0 | ens33 | Adapter 1 | VMnet10 |
+| eth1 | ens37 | Adapter 2 | VMnet19 |
+| (temporary) | ens38 | Adapter 3 | NAT |
+
+Ubuntu 24.04 uses predictable names (ensXX) instead of ethX.
+

@@ -1,0 +1,11 @@
+*.pcap
+*.iso
+*.vmdk
+*.7z
+*.tgz
+*.deb
+*.rpm
+*.key
+*.pem
+.env
+secrets.*
